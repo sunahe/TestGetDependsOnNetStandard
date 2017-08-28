@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net461</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="I.Like.To.Give.Long.Names.To.My.Packages.For.Totally.Valid.Reasons.1.0.0">
+      <HintPath>..\Packages\I.Like.To.Give.Long.Names.To.My.Libraries.For.Totally.Valid.Reasons.1.0.0\lib\net461\I.Like.To.Give.Long.Names.To.My.Packages.For.Totally.Valid.Reasons.1.0.0.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
